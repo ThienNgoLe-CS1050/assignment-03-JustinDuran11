@@ -15,5 +15,5 @@ public class Hello_Github {
 		//3.2 Write a print statement that displays the following format on the console: First M. Last says:"Hello Github Don't host ransomware. Don't perform cyber attacks";
 		System.out.printf("%s %c %s says %s",firstName, middleInitial, lastName, myMessage);			
 	}
-
+//REMOVE this empty line
 }
